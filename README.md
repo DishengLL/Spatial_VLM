@@ -1,2 +1,10 @@
 # Spatial_VLM
-the paper collection of VLM w.r.t Spatial Understanding
+The paper collection of VLM for Spatial Understanding.
+
+This GitHub repository collects works to improve the spatial understanding of current vision-language models (VLMs). Unlike many popular efforts centered around large language models (LLMs), our work places greater emphasis on the visual aspect of spatial reasoning.
+
+Large Language Models (LLMs) have impressed the community with their strong performance, sparking public interest in evaluating spatial reasoning from a language perspective. In the context of Vision-Language Models (VLMs), studies have shown that the language module often outperforms the visual module in reasoning tasks. Despite the image input typically containing more raw information than text, visual cues often receive less attention weight within these models. As a result, recent efforts to improve AI’s spatial understanding have largely focused on the linguistic side. However, we argue that for true spatial awareness, the visual modality should receive greater emphasis. Unlike high-level, abstract linguistic concepts, visual information offers grounded, perceptual signals concerning spatial understanding. Humans primarily develop spatial awareness through observation and interaction with their environment, rather than relying solely on textual descriptions of space and orientation.
+
+Therefore, we believe that advancing spatial reasoning in VLMs requires greater emphasis on strengthening the visual module and fully leveraging the richness of visual cues. With this goal in mind, we created this repository to collect and organize current efforts aimed at improving spatial understanding from a vision-centric perspective.
+
+Our work summarizes the current limitations of spatial intelligence in VLMs and categorizes existing methodologies for enhancing spatial understanding from visual perspectives. Building on this foundation, we review these approaches and extend the discussion beyond VLMs—exploring what constitutes strong spatial understanding in the broader computer vision field. Finally, we discuss the potential of integrating such spatial representations into the VLM pipeline to improve visual reasoning capabilities.
